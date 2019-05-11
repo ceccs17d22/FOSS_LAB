@@ -1,0 +1,252 @@
+Script started on 2019-05-12 00:24:38+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;goutham@Goutham-pc: ~/Desktop/T_Final[01;32mgoutham@Goutham-pc[00m:[01;34m~/Desktop/T_Final[00m$ ./a.shchmod +x a.sh[7P./a.shchmod +x a.sh[7P./a.sh[K./a.shchmod +x a.sh[7P./a.shchmod +x a.sh[2Pd Desktop/[5P./a.shmdc.shchmod +x  mdc.sh[8P./mdc.shchmod +x  mdc.sh[8P./mdc.shchmod +x  mdc.sh[K[K[K[K[K[KFinal_T.sh
+]0;goutham@Goutham-pc: ~/Desktop/T_Final[01;32mgoutham@Goutham-pc[00m:[01;34m~/Desktop/T_Final[00m$ ./Final_T.sh
+MENU DRIVEN CALCULATOR
+1.ADDITION
+2.SUBTRACTION
+3.MULTIPLICATION
+4.DIVISION
+5.MODULUS
+6.EXIT
+Operation to be performed
+1
+Enter first number
+2
+Enter the second number
+3
+First : 2
+Second : 3
+Sum: 5
+Operation to be performed
+2
+Enter first number
+4
+Enter the second number
+3
+First : 4
+Second : 3
+Difference : 1
+Operation to be performed
+3
+Enter first number
+4
+Enter the second number
+5
+First : 4
+Second : 5
+Product : 20
+Operation to be performed
+4
+Enter first number
+6
+Enter the second number
+3
+First : 6
+Second : 3
+Division : 2
+Operation to be performed
+5
+Enter first number
+5
+Enter the second number
+6
+First : 5
+Second : 6
+Modulus : 5
+Operation to be performed
+6
+Thank you 
+]0;goutham@Goutham-pc: ~/Desktop/T_Final[01;32mgoutham@Goutham-pc[00m:[01;34m~/Desktop/T_Final[00m$ ./Final_T.sh
+MENU DRIVEN CALCULATOR
+1.ADDITION
+2.SUBTRACTION
+3.MULTIPLICATION
+4.DIVISION
+5.MODULUS
+6.EXIT
+Operation to be performed
+1
+Enter first number
+4
+Enter the second number
+5
+First : 4
+Second : 5
+Sum: 9
+Operation to be performed
+2
+Enter first number
+4
+Enter the second number
+7
+First : 4
+Second : 7
+Difference : -3
+Operation to be performed
+3
+Enter first number
+4
+Enter the second number
+5
+First : 4
+Second : 5
+Product : 20
+Operation to be performed
+4
+Enter first number
+5
+Enter the second number
+6
+First : 5
+Second : 6
+Division : 0
+Operation to be performed
+5 6
+Thank you 
+]0;goutham@Goutham-pc: ~/Desktop/T_Final[01;32mgoutham@Goutham-pc[00m:[01;34m~/Desktop/T_Final[00m$ ./Final_T.sh
+MENU DRIVEN CALCULATOR
+1.ADDITION
+2.SUBTRACTION
+3.MULTIPLICATION
+4.DIVISION
+5.MODULUS
+6.EXIT
+Operation to be performed
+6
+Thank you 
+]0;goutham@Goutham-pc: ~/Desktop/T_Final[01;32mgoutham@Goutham-pc[00m:[01;34m~/Desktop/T_Final[00m$ exit
+exit
+
+Script done on 2019-05-12 00:27:43+05:30 [COMMAND_EXIT_CODE="0"]
+first number
+4
+Enter the second number
+5
+First : 4
+Second : 5
+Product : 20
+Operation to be performed
+4
+Enter first number
+6
+Enter the second number
+3
+First : 6
+Second : 3
+Division : 2
+Operation to be performed
+5
+Enter first number
+5
+Enter the second number
+6
+First : 5
+Second : 6
+Modulus : 5
+Operation to be performed
+6
+Thank you 
+]0;goutham@Goutham-pc: ~/Desktop/T_Final[01;32mgoutham@Goutham-pc[00m:[01;34m~/Desktop/T_Final[00m$ ./Final_T.sh
+MENU DRIVEN CALCULATOR
+1.ADDITION
+2.SUBTRACTION
+3.MULTIPLICATION
+4.DIVISION
+5.MODULUS
+6.EXIT
+Operation to be performed
+1
+Enter first number
+4
+Enter the second number
+5
+First : 4
+Second : 5
+Sum: 9
+Operation to be performed
+2
+Enter first number
+4
+Enter the second number
+7
+First : 4
+Second : 7
+Difference : -3
+Operation to be performed
+3
+Enter first number
+4
+Enter the second number
+5
+First : 4
+Second : 5
+Product : 20
+Operation to be performed
+4
+Enter first number
+5
+Enter the second number
+6
+First : 5
+Second : 6
+Division : 0
+Operation to be performed
+5 6
+Thank you 
+]0;goutham@Goutham-pc: ~/Desktop/T_Final[01;32mgoutham@Goutham-pc[00m:[01;34m~/Desktop/T_Final[00m$ ./Final_T.sh
+MENU DRIVEN CALCULATOR
+1.ADDITION
+2.SUBTRACTION
+3.MULTIPLICATION
+4.DIVISION
+5.MODULUS
+6.EXIT
+Operation to be performed
+1
+Enter first number
+-2
+Enter the second number
+-3
+First : -2
+Second : -3
+Sum: -5
+Operation to be performed
+2
+Enter first number
+-3
+Enter the second number
+-5
+First : -3
+Second : -5
+Difference : 2
+Operation to be performed
+3
+Enter first number
+-3
+Enter the second number
+-2
+First : -3
+Second : -2
+Product : 6
+Operation to be performed
+3
+Enter first number
+-3
+Enter the second number
+2
+First : -3
+Second : 2
+Product : -6
+Operation to be performed
+4
+Enter first number
+-4
+Enter the second number
+5
+First : -4
+Second : 5
+Division : 0
+Operation to be performed
+6
+Thank you 
+]0;goutham@Goutham-pc: ~/Desktop/T_Final[01;32mgoutham@Goutham-pc[00m:[01;34m~/Desktop/T_Final[00m$ ex
